@@ -1,4 +1,5 @@
-- 👋 Hi, I’m JONATHAN SALES 
+- 👋 Hi, I’m JONATHAN SALES
+- 👨‍💻 I’m a Data Science intern at Fortbrasil Instituição de Pagamento S.A 
 - 👀 I’m interested in learn more about Data Science
 - 🌱 I’m currently learning Python, Data analysis, Machine Learning, SQL and Power BI
 - 💞️ I’m looking to collaborate on projects of Data Science 
