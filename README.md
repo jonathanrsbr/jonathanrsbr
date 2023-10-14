@@ -1,8 +1,8 @@
 - 👋 Hi, I’m JONATHAN SALES
-- 👨‍💻 I’m a Data Science intern at Fortbrasil Instituição de Pagamento S.A 
-- 👀 I’m interested in learn more about Data Science
-- 🌱 I’m currently learning Python, Data analysis, Machine Learning, SQL and Power BI
-- 💞️ I’m looking to collaborate on projects of Data Science 
+- 👨‍💻  have experience with programming, Python for data science, and automating tests with Cypress
+- 👀 I’m interested in learn more about QA
+- 🌱 I’m currently learning Cypress, JavaScript, Unit test with jest JS and QA philosophy
+- 💞️ I’m looking to collaborate on projects of QA 
 - 📫 How to reach me: jonathan@gmail.com or https://www.linkedin.com/in/jonathan-rodrigues-sales-44580b1b3/
 
 <!---
