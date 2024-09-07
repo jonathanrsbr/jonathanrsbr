@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning more about QA.
 - 🌱 I’m currently learning Cypress, JavaScript, unit testing with Jest, and QA philosophy.
 - 💞️ I’m looking to collaborate on QA projects.
-- 📫 You can reach me at jonathan@gmail.com or through my LinkedIn profile: https://www.linkedin.com/in/jonathan-rodrigues-sales-44580b1b3/
+- 📫 You can reach me at jonathan@gmail.com or through my LinkedIn profile: [https://www.linkedin.com/in/jonathan-rodrigues-sales-44580b1b3/](https://www.linkedin.com/in/jonathan-sales-44580b1b3/)
 
 <!---
 jonathanrsbr/jonathanrsbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
